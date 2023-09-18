@@ -1,4 +1,4 @@
-This application is a billing system that allows users to <strong>manage subscriber records</strong>. It includes the following features:
+This is a console application is a billing system that allows users to <strong>manage subscriber records</strong>. It includes the following features:
 
 - Adding new records
 - Listing existing records
